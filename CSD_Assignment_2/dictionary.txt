@@ -1,0 +1,57 @@
+access;Quyền truy cập, sự tiếp cận
+accuracy;Sự chính xác
+address;Nhắm vào, trình bày
+adequate;Đầy đủ
+affect;Ảnh hưởng
+appreciate;Đánh giá cao, cảm kích
+aspect;Khía cạnh
+assess;Đánh giá, ước lượng
+atmosphere;Không khí
+beneficial;Có ích, có lợi
+acquire;Đạt được, thu được
+barrier;Rào cản, chướng ngại vật
+acute;Nghiêm trọng, nhức nhối
+chronic;Xảy ra trong một thời gian dài, ăn sâu
+cognitive;Liên quan tới nhận thức
+compound;Hợp chất
+itinerary;Lộ trình
+materialistic;Thực dụng
+joint venture;Công ty liên doanh
+lay-off;Sự sa thải (vì không có việc)
+meticulous;Tỉ mỉ, kĩ càng
+insomnia;Chứng mất ngủ
+irreparable;Không thể bù đắp
+mass-produce;Sản xuất hàng loạt
+intimidating;Đáng sợ
+intrepid;Gan dạ
+inveterate;Lâu năm
+meteoric;Đạt được thành công nhanh chóng
+mishap;Sự cố, rủi ro
+monotonous;Đều đều, đơn điệu, buồn tẻ
+nadir;Vận rủi
+nuance;Sắc thái
+obesity;Béo phì
+obtuse;Chậm hiểu
+onus;Nhiệm vụ, trách nhiệm
+abhor;Ghê tởm, ghét cay ghét đắng
+coerce;Ép buộc
+connive;Thông đồng
+clandestine;Giấu diếm, bí mật
+blue-collar;Lao động chân tay
+portable;Cầm tay, dễ mang theo
+plateau;Cao nguyên
+regulate;Điều chỉnh
+predominant;Ưu thế
+picturesque;Đẹp như tranh
+perk;Thù lao, bổng lộc
+perist;Kiên trì, kiên định
+pitfall;Nguy hiểm, cạm bẫy
+prevalent;Phổ biến
+pervasive;Lan tỏa, phổ biến
+rash;Hấp tấp, liều lĩnh
+rivalry;Sự ganh đua, sự kình địch
+sceptical;Hoài nghi, ngờ vực
+salient;Quan trọng, nổi bật
+resent;Phẫn uất, không bằng lòng
+slender;Ít ỏi, nghèo nàn
+slum;Khu nhà ổ chuột
